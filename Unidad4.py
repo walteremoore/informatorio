@@ -68,6 +68,8 @@
 # los tipos de datos que se pueden modificar son: listas, diccionarios, conjuntos.
 # Paso por referencia: Se maneja directamente la variable, los cambios realizados dentro de la función le afectarán también fuera.
 
+#cambio
+
 #def valor(x):
 #    x.append(2)
 
