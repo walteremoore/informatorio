@@ -1,8 +1,8 @@
-# Título del Proyecto
+# Informatorio 2021
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_En este repositorio voy a subir todos los ejercicios desarrollados durante la cursada del Informatorio 2021, comisión 4. Desarrollo web – Etapa 2._
 
-## Comenzando 🚀
+<!-- ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
@@ -103,3 +103,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ---
 ⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+ -->
